@@ -1,0 +1,7 @@
+%% this is a trial notebook
+
+import pandas as pd
+import numpy as np
+
+print("Hello Capstone Project Course!")
+
